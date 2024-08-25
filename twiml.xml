@@ -1,6 +1,6 @@
 <Response>
     <Start>
-        <Stream url="wss://your-ngrok-url.ngrok.io/media" />
+        <Stream url="wss://547a-23-120-19-36.ngrok-free.app/media" />
     </Start>
     <Say>Hello, please listen to the instructions.</Say>
 </Response>
