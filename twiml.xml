@@ -1,0 +1,6 @@
+<Response>
+    <Start>
+        <Stream url="wss://your-ngrok-url.ngrok.io/media" />
+    </Start>
+    <Say>Hello, please listen to the instructions.</Say>
+</Response>
